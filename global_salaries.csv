@@ -1,0 +1,31 @@
+country,job_role,experience_years,salary_remote,salary_onsite,remote_ratio
+United States,Software Engineer,2,95000,102000,80
+United States,Software Engineer,5,125000,138000,60
+United States,Data Scientist,4,135000,145000,70
+United States,Data Scientist,8,165000,180000,50
+United States,Cloud Architect,6,155000,170000,40
+United States,Cloud Architect,10,185000,205000,20
+United Kingdom,Software Engineer,3,75000,82000,85
+United Kingdom,Software Engineer,6,92000,98000,65
+United Kingdom,Data Scientist,4,88000,95000,75
+United Kingdom,Data Scientist,7,110000,120000,55
+United Kingdom,Cloud Architect,5,105000,115000,45
+United Kingdom,Cloud Architect,9,135000,148000,25
+Germany,Software Engineer,2,70000,76000,90
+Germany,Software Engineer,5,88000,94000,70
+Germany,Data Scientist,3,82000,89000,80
+Germany,Data Scientist,6,105000,115000,60
+Germany,Cloud Architect,5,112000,124000,50
+Germany,Cloud Architect,8,132000,145000,30
+Canada,Software Engineer,3,82000,88000,85
+Canada,Software Engineer,6,105000,112000,65
+Canada,Data Scientist,4,110000,118000,75
+Canada,Data Scientist,8,135000,148000,55
+Canada,Cloud Architect,5,125000,138000,45
+Canada,Cloud Architect,9,155000,170000,25
+India,Software Engineer,2,22000,26000,90
+India,Software Engineer,5,42000,48000,70
+India,Data Scientist,3,38000,45000,80
+India,Data Scientist,6,58000,68000,60
+India,Cloud Architect,5,65000,75000,50
+India,Cloud Architect,8,85000,98000,30
