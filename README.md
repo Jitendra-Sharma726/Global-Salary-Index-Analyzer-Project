@@ -1,0 +1,1 @@
+# Global-Salary-Index-Analyzer-Project
